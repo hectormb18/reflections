@@ -9,3 +9,7 @@ Manual pull is better because I can be specific in what I want to pull and only 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 I would create a fork when I want to make a copy of someone else's repository on my own GitHub. I would create a clone when I want to create a copy of a repository on my own local computer. And I would create a branch to a project if I were to test something big in a project that I did not necessarily want to be commited to the master branch yet.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is that I would not have to pull from the GitHub repo, instead I could just modify as I please locally and push it. This means I can work offline and push changes faster.

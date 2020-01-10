@@ -13,3 +13,7 @@ I would create a fork when I want to make a copy of someone else's repository on
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is that I would not have to pull from the GitHub repo, instead I could just modify as I please locally and push it. This means I can work offline and push changes faster.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collab by sitting side by side with my partner and putting our heads together. It would take longer to implement solutions to code on both of our computers. Also I would have to share the code with him via email. Also, we would not be able to create branches and save our work online.

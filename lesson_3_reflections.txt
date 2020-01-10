@@ -5,3 +5,7 @@ When you want to keep track of new changes made to your work or when you want to
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Manual pull is better because I can be specific in what I want to pull and only choose certain branches. Automatic pull will change my local work whether I want to or not.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+I would create a fork when I want to make a copy of someone else's repository on my own GitHub. I would create a clone when I want to create a copy of a repository on my own local computer. And I would create a branch to a project if I were to test something big in a project that I did not necessarily want to be commited to the master branch yet.

@@ -1,3 +1,7 @@
 When would you want to create a new repository rather than keeping all your work local?
 
 When you want to keep track of new changes made to your work or when you want to share your work with other collaborators.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Manual pull is better because I can be specific in what I want to pull and only choose certain branches. Automatic pull will change my local work whether I want to or not.

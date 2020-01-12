@@ -17,3 +17,7 @@ The benefit is that I would not have to pull from the GitHub repo, instead I cou
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would collab by sitting side by side with my partner and putting our heads together. It would take longer to implement solutions to code on both of our computers. Also I would have to share the code with him via email. Also, we would not be able to create branches and save our work online.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would want to make changes in a separate branch rather than master when testing out a new feature or making drastic changes to my project. However, by making changes directly in master, one can bypass having to merge branches. The former is safer though.
